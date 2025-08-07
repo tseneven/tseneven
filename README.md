@@ -11,6 +11,7 @@
 🇺🇸 About Me
 
 I’m a junior+ level developer passionate about learning modern technologies and building real-world projects. I have experience with C#, Flutter and Dart, and a solid foundation in SQL, RestAPI and WS. I’m actively improving my skills in mobile and desktop development, focusing on application architecture, state management, and working with databases. I also have an interest in networking, automation, and cross-platform solutions.
+
 [My bro](https://github.com/HasloGasRa)
 
 Skills: С#/Dart/Flutter/MySQL/MSSQL
