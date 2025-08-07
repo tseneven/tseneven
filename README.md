@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Alexander
+### Hi there 👋, my name is Alexandr
 #### I am C#/Flutter developer
 ![I am C#/Flutter developer](https://i.pinimg.com/1200x/93/cb/1d/93cb1db15a9d370bda35e7fc2ae10fe5.jpg)
 
