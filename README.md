@@ -6,7 +6,7 @@
 Hi everyone, I'm Alexander
 ---
 ## Stack
-Flutter, C#, Kotlin
+Flutter, C#
 
 ## Tools and Libraries
 WebSocket, API, WebAPI/ASP.NET, EF Core, Dapper, WebRTC, Shared Preferences, SQLite, MySQL, MSSQL, JWTBearer, SignalR, Telegram.Bot
