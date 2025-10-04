@@ -9,7 +9,7 @@ Hi everyone, I'm Alexander
 Flutter, C#, Kotlin
 
 ## Tools and Libraries
-WebSocket, API, WebAPI, EF Core, Dapper, WebRTC, Shared Preferences, SQLite, MySQL, MSSQL, JWTBearer, SignalR, Telegram.Bot
+WebSocket, API, WebAPI/ASP.NET, EF Core, Dapper, WebRTC, Shared Preferences, SQLite, MySQL, MSSQL, JWTBearer, SignalR, Telegram.Bot
 
 ## Contact 
 
