@@ -13,7 +13,7 @@ WebSocket, API, WebAPI/ASP.NET, EF Core, Dapper, WebRTC, Shared Preferences, SQL
 
 ## Contact 
 
-email : a.kuznetsov.job@outlook.com
+email : aleks.kuznetsov.job@outlook.com
 telegram : @ondi_dev
 
 [my bro](https://github.com/HasloGasRa)
